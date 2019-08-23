@@ -1,5 +1,5 @@
 library(tinytest)
-library(checkmate.tinytest)
+using(checkmate.tinytest)
 
 expect_true(TRUE)
 expect_true(TRUE)
